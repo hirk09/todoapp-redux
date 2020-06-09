@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "rishikesh",
+    "checked": true
+  },
+  {
+    "id": 1,
+    "name": "rahul",
+    "checked": true
+  },
+  {
+    "id": 2,
+    "name": "shayam",
+    "checked": false
+  },
+  {
+    "id": 3,
+    "name": "mohit",
+    "checked": false
+  }
+]

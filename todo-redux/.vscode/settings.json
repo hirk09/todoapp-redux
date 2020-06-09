@@ -1,0 +1,11 @@
+{
+    "sshfs.configs": [
+        {
+            "host": "176.9.137.77",
+            "name": "todoApp",
+            "password": "newjoiner@123",
+            "port": 7002,
+            "username": true
+        }
+    ]
+}
